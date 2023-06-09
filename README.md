@@ -48,7 +48,7 @@ https://github.com/Msangwool/OpenChattingClient/assets/97933061/d042f04e-88a7-4a
 https://github.com/Msangwool/OpenChattingClient/assets/97933061/d8c13639-26a0-4f3f-a11c-f061285ae8f3
 
 코드에 대한 자세한 내용은 Blog에 작성해 놓았습니다. <br>
-Notion : https://gratis-somersault-5bf.notion.site/OpenChatting-Protocol-8acd30fb6d5a4fba9e1cc89d8322ef4f?pvs=4
+Velog : https://velog.io/@tkddnwkdb/OpenChattingProtocol
 <br>
 
 OpenChattingServer : https://github.com/Msangwool/OpenChattingServer
