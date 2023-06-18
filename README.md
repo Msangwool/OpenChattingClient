@@ -28,24 +28,7 @@ char[] 를 이용하여 헤더를 구성하지는 않았습니다. 이후에는 
     - 채팅 도중 Start를 누르면 상대방과의 대화는 종료되고 Wait 상태인 누군가와 랜덤으로 대화를 시작합니다.
     - Wait 상태인 사람이 하나도 없을 때, Start를 누르게 되면 대화할 수 있는 상대가 없다는 메세지를 받습니다. 다시 Wait or Start를 누를 수 있습니다.
 
-## Group Chatting
-
-
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/3e92f66e-82de-48e2-b4bf-66bf1411bca5
-
-
-
-## Open Chatting
-
-
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/d042f04e-88a7-4ac9-a9ff-024543bd0775
-
-
-
-## Random Chatting
-
-
-https://github.com/Msangwool/OpenChattingClient/assets/97933061/d8c13639-26a0-4f3f-a11c-f061285ae8f3
+<br>
 
 코드에 대한 자세한 내용은 Blog에 작성해 놓았습니다. <br>
 Velog : https://velog.io/@tkddnwkdb/OpenChattingProtocol
